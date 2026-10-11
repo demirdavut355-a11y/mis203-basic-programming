@@ -13,15 +13,18 @@ print("3 - Very stressed / My head is full")
 select = input("\nSelect (1/2/3): ")
 
 energitic_songs = [
-     "https://yandex.com.tr/video/preview/13009533989351780743"
+     "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+     "https://www.youtube.com/watch?v=l482T0yNkeo"
 ]
 
 relax_songs = [
-    "https://www.youtube.com/watch?v=RP0_8J7uxhs"
+    "https://www.youtube.com/watch?v=RP0_8J7uxhs",
+    "https://www.youtube.com/watch?v=S-Xm7s9eGxU"
 ]
 
 stress_songs = [
-    "https://yandex.com.tr/video/preview/13961895651759353278"
+    "https://www.youtube.com/watch?v=LhhLcbr9Jqg",
+    "https://www.youtube.com/watch?v=DnGdoEa1tPg"
 ]
 
 if select == "1":
