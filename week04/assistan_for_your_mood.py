@@ -38,6 +38,6 @@ elif select == "3":
     print("\nI understand. Let's ease your stress with some great Türkish folk music.")
 else:
     print("\nInvalid selection, but I'm still opening a nice song for you!")
-    selected_songs = "https://yandex.com.tr/video/preview/15892366563661223737"  
+    selected_songs = "https://www.youtube.com/watch?v=3QwkB28QuKk"  
 
 webbrowser.open(selected_songs)  
